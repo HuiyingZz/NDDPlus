@@ -46,8 +46,6 @@ Infusions: TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 ## [Tank set](https://www.ohthemisery.tk/builder/m=Truest%20North-3&o=Dryadic%20Temptation&h=The%20Knight's%20Pledge&c=The%20Godshell&l=Iridium%20Greaves&b=Old%20Ice%20Brogues)
 Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
 
----
-
 # Options in Slot:
 Here's more details about what piece is good for this slot. (Nothing about armor set because I'm not familar with that.)
 
@@ -193,8 +191,6 @@ BiS *Reflex*. Good Speed. Good general defence. No need to worry about durabilit
 
 BiS general defence. +5% Speed as Sweet spot. No need to worry about durability.
 
----
-
 # Hotbar Recommonds (Not have to get them but it's such a good-to-have):
 
 - **Any *Recoil* item**
@@ -216,8 +212,6 @@ Sometimes chest will spawn under a wooden block, which will cost years to break,
 - **Heart of the Jungle**
 
 Nice healing and foodbar-filling item, but with a long Cooldown so better save it when you really need it.
-
----
 
 # Consumables (* means Not Must!!):
 
@@ -242,6 +236,7 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 ## Consumables as DPS:
 *3 of each kind per 1 completion.*
 - **Wolfswood's Fury** (r3 loot chest / Portal complete / GS complete / SKT complete)
+
 - **Charger's Lager** (Can be found in Molta bar).
 
 ## Consumables as Tank (* means Not Must!!):
@@ -258,8 +253,6 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - **Any 40% Instant Healing mix with any 40% Absorption**
 
----
-
 # Room priority (Become worse and worse from up to down)
 
 Utility (Top Mid)
@@ -275,8 +268,6 @@ Normal Treasure (Mid Left)
 Elite Others (Ability Bottom Left / Upgrade Bottom Right)
 
 Twisted (Mid)
-
----
 
 # Skill priority
 
@@ -388,8 +379,6 @@ For each potion room,  leave at least 3 potions to DPS for tanking f3 boss skill
 - Dummy and Disc
 
 The button offers 1 treasure point so don't forget to do that. Doesn't lose its effect after opening a new room.
-
----
 
 # Misc Tips
 
