@@ -328,8 +328,6 @@ Stats are counted at Legendary Rarity.
 
 - Stone Skin
 
-- Rejuvenation
-
 - Bramble Shell
 
 ## Support (Become worse and worse from up to down)
@@ -362,7 +360,7 @@ Stats are counted at Legendary Rarity.
 
 **Never touch the botton as you have 1 useful ability.**
 
-**NEVER EVER EVER touch the botton if you don't want to roll it for yourself**
+**NEVER EVER EVER touch the botton if you don't want to roll it for yourself.**
 
 - Remove skills
 
@@ -381,6 +379,8 @@ For each potion room,  leave at least 3 potions to DPS for tanking f3 boss skill
 The button offers 1 treasure point so don't forget to do that. Doesn't lose its effect after opening a new room.
 
 # Misc Tips
+
+- Never cast your golem at f1&f2. It pulls aggro which is good for f2, but its hitbox is so huge that blocks most melee / projectile hits.
 
 - Don't be too harry opening new room. Treasure chest has to be claimed manually to get the treasure scout added into your run.
 
