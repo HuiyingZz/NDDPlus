@@ -1,9 +1,12 @@
-# Presets:
-Here's some presets if you don't really wanna spend time to constumize a set.
+The main page of NDDPlus wiki. Directs you to each part of the guide by sidebar.
 
-If you don't have / can't affort some of the items used in these sets, read below to check if it has alternative piece.
+# Presets of builds:
 
-## [Armor BiS](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Tear%20of%20the%20Moon&h=Frost%20Giant's%20Crown&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
+  Here's some presets if you don't really wanna spend time to constumize a set.
+
+  If you don't have / can't affort some of the items used in these sets, read below to check if it has alternative piece.
+
+## [Armor Best-in-Slot set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Tear%20of%20the%20Moon&h=Frost%20Giant's%20Crown&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
 
 147.6% Speed as base.
 
@@ -13,41 +16,52 @@ Damage Reduction doesn't rely on Situational Enchantments, and doesn't really lo
 
 *Curse Of Corruption* has been consumed.
 
-## [Agi BiS](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Dragonbone%20Dagger&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Mist's%20Wake)
+## [Agi Best-in-Slot set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Dragonbone%20Dagger&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Mist's%20Wake)
+
 132% Speed as base. *Adrenaline 5* (+50% Speed for 3 seconds Potion Effect upon attack, +25% for 6 seconds upon break spawner), so 198% Speed upon attack, 165% upon break spawner.
 
 *Curse Of Corruption* has been consumed.
 
 ## [Agi budget set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Merchant's%20Curio&h=Crest%20of%20the%20Tundra&c=Phasing%20Chestplate&l=Galemage's%20Greaves&b=Mist's%20Wake)
+
 138% Speed as base.
 
 Generally higher Damage Reduction than BiS. *Tempo* 1 doesn't really exist.
 
 Melee damage sucks a bit.
 
-## [Agi IDNWTGDDWDIU (I Do Not Want To Get Dragonbone Dagger What Do I Use) set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
+## [Agi IDNWTGDDWDIU set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
+
+I Do Not Want To Get Dragonbone Dagger What Do I Use
+
 125% Speed as base. *Adrenaline* 5, so 187.5% Speed upon attack, 156.25% upon break spawner.
 
 Generally around the same Damage Reduction with budget set. 
 
-## [Agi PGMWYARSS (Please Get Mist's Wake You Are Running So Slow) set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Blackthread%20Boots)
+## [Agi PGMWYARSS set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Blackthread%20Boots)
+
+Please Get Mist's Wake You Are Running So Slow
+
 105% Speed as base. *Adrenaline* 5, so 157.5% Speed upon attack, 131.25% upon break spawner.
 
 Better Blast Damage Reduction.
 
 ## [Agi DPS set](https://www.ohthemisery.tk/builder/m=Titan%20Spear&o=Accident%20Prone&h=Horseman's%20Head&c=Crusadoth&l=Salazar's%20Greed&b=Sailwoven%20Sandals)
+
 Infusions: TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 
 *To be Verified:* Since *Slowness* doesn't affect bosses anymore therefor there is no need to get Yellow nor Magenta.
 
 ## [Armor DPS set](https://www.ohthemisery.tk/builder/m=Titan%20Spear&o=Accident%20Prone&h=Mage%20Hunter's%20Mask&c=The%20Godshell&l=Chains%20from%20Below%20the%20Waves&b=Bark%20of%20the%20Gateway%20Tree)
+
 *I have **NEVER** tried Armor DPS set before, and it has to get Grace 5 to work.*
 
 ## [Tank set](https://www.ohthemisery.tk/builder/m=Truest%20North-3&o=Dryadic%20Temptation&h=The%20Knight's%20Pledge&c=The%20Godshell&l=Iridium%20Greaves&b=Old%20Ice%20Brogues)
+
 Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
 
 # Options in Slot:
-Here's more details about what piece is good for this slot. (Nothing about armor set because I'm not familar with that.)
+  Here's more details about what piece is good for this slot. (Nothing about armor set because I'm not familar with that.)
 
 ## Pickaxe:
 
@@ -191,7 +205,9 @@ BiS *Reflex*. Good Speed. Good general defence. No need to worry about durabilit
 
 BiS general defence. +5% Speed as Sweet spot. No need to worry about durability.
 
-# Hotbar Recommonds (Not have to get them but it's such a good-to-have):
+# Hotbar Recommonds:
+
+  Not have to get them but it's such a good-to-have
 
 - **Any *Recoil* item**
 
@@ -213,7 +229,9 @@ Sometimes chest will spawn under a wooden block, which will cost years to break,
 
 Nice healing and foodbar-filling item, but with a long Cooldown so better save it when you really need it.
 
-# Consumables (* means Not Must!!):
+# Consumables:
+
+  * means Not Must!!
 
 - ***Empowered Azure Mixture**
 
@@ -234,12 +252,16 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 - **Sliver of Perfection** / **Fruits of the Catch** / (Porkchop directly drops 1 stack from 1 completion of ndd)
 
 ## Consumables as DPS:
+  
 *3 of each kind per 1 completion.*
+
 - **Wolfswood's Fury** (r3 loot chest / Portal complete / GS complete / SKT complete)
 
 - **Charger's Lager** (Can be found in Molta bar).
 
-## Consumables as Tank (* means Not Must!!):
+## Consumables as Tank:
+
+* means Not Must!!
 
 - ***Epipelagic Essence**
 
@@ -253,29 +275,34 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - **Any 40% Instant Healing mix with any 40% Absorption**
 
-# Room priority (Become worse and worse from up to down)
+# Room priority
 
-Utility (Top Mid)
+  Become worse and worse from up to down
 
-Normal Treasure (Mid Left)
+- Utility (Top Mid)
 
-*Normal Others (Ability Top Left / Upgrade Top Right)*
+- Normal Treasure (Mid Left)
 
-*Elite Treasure (Mid Right)*
+- *Normal Others (Ability Top Left / Upgrade Top Right)*
+
+- *Elite Treasure (Mid Right)*
 
 > These 2 are flexible depends on if you want a greater loot all in 1 run or more loot per unit time. If you want all in 1 then choose ET.
 
-Elite Others (Ability Bottom Left / Upgrade Bottom Right)
+- Elite Others (Ability Bottom Left / Upgrade Bottom Right)
 
-Twisted (Mid)
+- Twisted (Mid)
 
 # Skill priority
 
-All the Sneak + LMB abilities conflict with Rapid Fire on Titan Spear.
+  All the Sneak + LMB abilities conflict with Rapid Fire on Titan Spear.
 
-Stats are counted at Legendary Rarity.
+  Stats are counted at Legendary Rarity.
 
-## DPS (Become worse and worse from up to down)
+## DPS
+
+  Become worse and worse from up to down
+
 - **Radiant Blessing**: Effectively *156.36%. The 1st overall dps boost (conflict with Cloak of Shadows, which helps a lot in f2)
 
 - Advancing Shadows: Effectively *138.89%.
@@ -298,7 +325,10 @@ Stats are counted at Legendary Rarity.
 
 (These are only stats on paper. Things like you killed boss before the skill goes off Cooldown happens. Only take a salt of them.)
 
-## Burst (Become worse and worse from up to down)
+## Burst
+
+  Become worse and worse from up to down
+
 - **Chaos Dagger**: Effectively *300%.
 
 - **Cloak of Shadows**: Effectively *180%.
@@ -319,7 +349,10 @@ Stats are counted at Legendary Rarity.
 
 (Lighting bottle is not in the list due to it takes hotbar. Effectively *120%.)
 
-## Tank (Become worse and worse from up to down)
+## Tank
+
+  Become worse and worse from up to down
+
 - **Taunt**
 
 - Earthen Wrath
@@ -328,9 +361,14 @@ Stats are counted at Legendary Rarity.
 
 - Stone Skin
 
+- Rejuvenation
+
 - Bramble Shell
 
-## Support (Become worse and worse from up to down)
+## Support
+
+  Become worse and worse from up to down
+
 - **Radiant Blessing**
 
 - Ward of Light
@@ -343,7 +381,10 @@ Stats are counted at Legendary Rarity.
 
 (Lighting bottle is not in the list due to it takes hotbar.)
 
-## Lifeline (Become worse and worse from up to down)
+## Lifeline
+
+  Become worse and worse from up to down
+
 - Apocalypse (Flamecaller)
 > The only skill blocks the damage from Seeker's laser if laser will trigger lifeline so that it does save you from laser.
 
@@ -360,7 +401,7 @@ Stats are counted at Legendary Rarity.
 
 **Never touch the botton as you have 1 useful ability.**
 
-**NEVER EVER EVER touch the botton if you don't want to roll it for yourself.**
+**NEVER EVER EVER touch the botton if you don't want to roll it for yourself**
 
 - Remove skills
 
@@ -379,8 +420,6 @@ For each potion room,  leave at least 3 potions to DPS for tanking f3 boss skill
 The button offers 1 treasure point so don't forget to do that. Doesn't lose its effect after opening a new room.
 
 # Misc Tips
-
-- Never cast your golem at f1&f2. It pulls aggro which is good for f2, but its hitbox is so huge that blocks most melee / projectile hits.
 
 - Don't be too harry opening new room. Treasure chest has to be claimed manually to get the treasure scout added into your run.
 
