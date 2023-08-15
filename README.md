@@ -12,7 +12,7 @@ The average loot from my completion is about 2.25-2.75 hcs, 7-9 geode, 1/3 chanc
 NDD speedrun is different from NDD. You can complete NDD with progress of post Purple but there's a huge chance that you cannot even survive in f1 during speedrun. It requires good gear (several epics, even) and a basic knowledge of rooms' layout.
 
 # Where do I start with?
-[-> Here <-](https://github.com/HuiyingZz/NDDPlus/blob/main/NDD%2B.md)
+[-> Here <-](https://github.com/HuiyingZz/NDDPlus/wiki/Homepage)
 
 # Say something at last to make it looks epic.
 You will never get good if you never go try it.
