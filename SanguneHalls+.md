@@ -37,7 +37,7 @@ Walk around with vindicators and pick up Bezoars in late waves. They do hurt a l
 
 ## [Paladin](https://www.ohthemisery.tk/builder/m=EX%20Prismatic%20Blade-3&o=Timerift%20Stave-3&h=Sanguine%20Hood-3&c=EX%20Archmage's%20Vestment-3&l=Circuit%20Breaker-3&b=Energized%20Enclosure-3&charm=Aut-illery-3-C,Zoe-c_Geas-2-C,Dis-diance-3-C,Swi-diance-3-C,Les-diance-1-C)
 
-Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand Aptitude 1 wand
+Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand Aptitude 1 wand (Shard of the Dreamer)
 
 ### Skill layout
 
@@ -53,7 +53,7 @@ Don't try to melee unless you want to end this run.
 
 ## [Harb](https://www.ohthemisery.tk/builder/m=Hexbound%20Elixir-3&o=Timerift%20Stave-3&h=Stonewrought%20Helmet-3&c=Silver%20Vestment-3&l=Circuit%20Breaker-3&b=Energized%20Enclosure-3&charm=Ove-_Flask-2-A,Hea-_Forge-3-A,Exp-sanity-3-A,Exp-illery-3-A,Les-illery-1-A)
 
-Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand gallery bag 
+Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand gallery bag (Nightbarb Flask)
 
 ### Skill layout
 
@@ -82,6 +82,20 @@ Spec: Bodkin 2, other 1 each
 ### Gameplay
 
 Repeat of Kill -> VC -> Stealth -> Kill. Elites are usually not your highest prioty.
+
+## [Hunter](https://www.ohthemisery.tk/builder/m=Witchbane%20Revolver-3&o=Silvari%20Coin-3&h=Falling%20Blades-3&c=Timepiece%20Plate-3&l=Laboratory%20Apron-3&b=Dichen%20Resolve-3&charm=Har-s_Roar-3-S,Sed-d_Gale-2-S,Swi-t_Gale-1-S,Fra-_Shaft-1-S,Emp-acious-3-S,Dra-'s_Eye-2-S)
+
+Gallery armor: 2+2 tank/proj, offhand proj, mainhand QC 4 crossbow (Ravenclaws) for normal mobs, Piercing 10 crossbow (Heart Stopper) for volley and PStrike.
+
+### Skill layout
+
+Base: Swiftness 2, EE 2, Volley 2, Sharpshooter 2u, Wind Bomb 2u
+
+Spec: Split Arrow 2, other 1 each
+
+### Gameplay
+
+Spam your right click for the love of god Pinning Shot. Spam your EE for crashing teammate's FPS (and apply Vuln). Spam your Wind Bomb for Crowd Control. Save your PStrike for elties.
 
 # Reward
 
