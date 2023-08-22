@@ -17,7 +17,7 @@ Builds, gameplay to point out what are the meta stragedies. Wave 50 (for advance
 
 # Where do I start with?
 
-[-> NDD Speedrun here <-](https://github.com/HuiyingZz/NDDPlus/wiki/NDD)
+[-> NDD Speedrun here <-](https://github.com/HuiyingZz/NDDPlus/wiki/NDD-Speedrun)
 
 [-> Gallery of Fear here <-](https://github.com/HuiyingZz/NDDPlus/wiki/Gallery-of-Fear)
 
