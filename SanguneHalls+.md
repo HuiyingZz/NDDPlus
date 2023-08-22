@@ -1,6 +1,10 @@
 The sub page of NDDPlus wiki. Directs you to each part of the Sanguine Halls, the map of Gallery of Fear build guide by sidebar.
 
-You could use /ps [username] to check what piece others currently missing. It's very helpful for the guy doing box (usually one of the guardian or paladin)
+You could use */ps [username]* to check what piece others currently missing. It's very helpful for the guy doing box (usually one of the guardian or paladin)
+
+Example:
+
+	/ps HuiyingZz
 
 As a general tip for all non-guardian classes: Shield can block golem's melee and attack but dash/meteor/vindicators/magic missle breaks it. In that case, Annilys may help you survive.
 
@@ -78,3 +82,33 @@ Spec: Bodkin 2, other 1 each
 ### Gameplay
 
 Repeat of Kill -> VC -> Stealth -> Kill. Elites are usually not your highest prioty.
+
+# Reward
+
+	r22: 51ar 4mat
+	r25: 68ar 5mat 
+	r26: 76ar 6mat
+	r31: 116ar 9mat
+	r32: 126ar 11mat
+	r34: 2.25har 13mat 
+	r35: 157ar 13mat
+	r36: 2.625har 14mat 
+	r37: 2.875har 15mat 
+	r39: 205ar 17mat
+	r41: 3.5har 20mat 
+	r42: 3.825har 20mat 
+	r45: 4.5har 25mat 
+	r44: 276ar 23mat
+	r47: 5.0har 27mat 
+	r49: 5.5har 30mat 
+	r53: 6.85har 36mat 
+	r54: 7.17har 38mat
+	r56: 504ar 42mat
+	r58: 8.5har 48mat 
+	r65: 11.5har 61mat 
+	r68: 12.5har 67mat 
+	r70: 13.5har 71mat 
+	r73: 930ar 78mat
+	r80: 1109ar 93mat 
+	r82: 1160ar 97mat
+	r91: 1389ar 119mat
