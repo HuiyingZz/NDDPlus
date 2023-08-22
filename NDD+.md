@@ -1,4 +1,4 @@
-The main page of NDDPlus wiki. Directs you to each part of the guide by sidebar.
+The main page of NDDPlus wiki. Directs you to each part of the NDD Speedrun guide by sidebar.
 
 # Presets of builds:
 
@@ -85,7 +85,7 @@ Budget EShaker which has no defence stats and a bit lesser healing but do be che
 
 16 Mining Speed. 10 ticks (0.5s) / 8 ticks (0.4s) to break a spawner.
 
-Not recommond unless using it with *Haste* and *Regen* potion. Have to get lots of healing from other source like Infusions and Potions since *Sapper* 1 heals such less.
+Not recommond unless using it with *Regen* potion. Have to get lots of healing from other source like Infusions and Potions since *Sapper* 1 heals such less.
 
 - **Shattershrine**
 
@@ -95,17 +95,11 @@ The same Mining stats as above.
 
 I've never touched this so not sure its survivability.
 
-- **Skyfeller**
-
-12 Mining Speed. 13 ticks (0.65s) / (with *Haste* 1 Potion Effect) 11 ticks (0.55s) to break a spawner.
-  
-I've never touched this so not sure its survivability but should be better than Shattershrine.
-
 - **Boreas Mattock**
 
 23 Mining Speed. 7 ticks (0.35s) / 6 ticks (0.3s) to break a spawner.
 
-I've never touched this so not sure its survivability but should be better than Shattershrine.
+I've never touched this so not sure its survivability.
 
 *Curse Of Corruption* has been consumed.
 
