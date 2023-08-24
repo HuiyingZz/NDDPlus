@@ -8,6 +8,8 @@ Example:
 
 As a general tip for all non-guardian classes: Shield can block golem's melee and attack but dash/meteor/vindicators/magic missle breaks it. In that case, Annilys may help you survive.
 
+Current Group WR (wave 91) Strat: 2 Guardian, 1 Paladin, 1 Harb
+
 # Presets of builds:
 
   Here's some presets if you don't really wanna spend time to constumize a set.
@@ -83,7 +85,7 @@ Spec: Bodkin 2, other 1 each
 
 Repeat of Kill -> VC -> Stealth -> Kill. Elites are usually not your highest prioty.
 
-## [Hunter](https://www.ohthemisery.tk/builder/m=Witchbane%20Revolver-3&o=Silvari%20Coin-3&h=Falling%20Blades-3&c=Timepiece%20Plate-3&l=Laboratory%20Apron-3&b=Dichen%20Resolve-3&charm=Har-s_Roar-3-S,Sed-d_Gale-2-S,Swi-t_Gale-1-S,Fra-_Shaft-1-S,Emp-acious-3-S,Dra-'s_Eye-2-S)
+## [Hunter](https://www.ohthemisery.tk/builder/m=Witchbane%20Revolver-3&o=Silvari%20Coin-3&h=Falling%20Blades-3&c=Timepiece%20Plate-3&l=Laboratory%20Apron-3&b=Dichen%20Resolve-3&charm=Har-s_Roar-3-S,Fra-_Shaft-1-S,Dra-'s_Eye-2-S,Sha-sman's-3-S,Emp-acious-3-S)
 
 Gallery armor: 2+2 tank/proj, offhand proj, mainhand QC 4 crossbow (Ravenclaws) for normal mobs, Piercing 10 crossbow (Heart Stopper) for volley and PStrike.
 
