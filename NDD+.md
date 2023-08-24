@@ -1,4 +1,4 @@
-The main page of NDDPlus wiki. Directs you to each part of the NDD Speedrun guide by sidebar.
+The sub page of NDDPlus wiki. Directs you to each part of the guide by sidebar.
 
 # Presets of builds:
 
@@ -6,13 +6,13 @@ The main page of NDDPlus wiki. Directs you to each part of the NDD Speedrun guid
 
   If you don't have / can't affort some of the items used in these sets, read below to check if it has alternative piece.
 
-## [Armor Best-in-Slot set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Tear%20of%20the%20Moon&h=Frost%20Giant's%20Crown&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
+## [Armor Best-in-Slot set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Tear%20of%20the%20Moon&h=Rootweave%20Diadem&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
 
-147.6% Speed as base.
+153.6% Speed as base.
 
-Damage Reduction doesn't rely on Situational Enchantments, and doesn't really lower than Agi BiS with its *Reflex*.
+Damage Reduction doesn't rely on Situational Enchantments like *Reflex* in Agi BiS set.
 
-88.89% Effective Healing Rate, so Pink is recommonded.
+*Curse Of Anemia* 2, so healing is a huge problem.
 
 *Curse Of Corruption* has been consumed.
 
@@ -60,6 +60,8 @@ Infusions: TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 
 Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
 
+**4 HP is your danger zone where you get 2 shot with my set.** Pop your IH2 / Absorption / Totem / Tincture once you fall into it.
+
 # Options in Slot:
   Here's more details about what piece is good for this slot. (Nothing about armor set because I'm not familar with that.)
 
@@ -71,15 +73,13 @@ Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
 
 Gives you better Damage Reduction and Knockback Resistance which both really helps a lot when breaking spawners.
 
-*Sapper* 3 is such a good healing source that, in my case, if you have *Regen* 1 Potion Effect with BiS set you don't even need the healing from Hunger and Saturation most of the time.
-
 - **Dionaeas Graft**
 
 11 Mining Speed. 14 ticks (0.7s) / 12 ticks (0.6s) to break a spawner.
 
 Budget EShaker which has no defence stats and a bit lesser healing but do be cheap enough.
 
-*Eruption* can trigger *Sapper* but in actual scenario teammates is not that close to each other usually.
+*Eruption* can trigger *Sapper*, yes, but in actual scenario teammates is not that close to each other usually.
 
 - **Ocean's Bounty**
 
@@ -93,7 +93,7 @@ The same Mining stats as above.
 
 *Adrenaline* speed ups the clear stage a lot, but use it with your own risk.
 
-I've never touched this so not sure its survivability.
+The same as Ocean's Bounty.
 
 - **Boreas Mattock**
 
@@ -225,19 +225,19 @@ Nice healing and foodbar-filling item, but with a long Cooldown so better save i
 
 # Consumables:
 
-  * means Not Must!!
+  \* means Not Must!!
 
 - ***Empowered Azure Mixture**
 
-Low last. Cheap. Use 3 per 1 complete usually.
+Low last. Cheap. Use 2-3 per 1 complete usually.
 
 - ***Strong Dichen Energy Brew**
 
-Low last. Cheap. Use 3 per 1 complete usually. (idk)
+Low last. Cheap. Use 2-3 per 1 complete usually.
 
 - ***Extract of the Eternal**
 
-Long last. Cheap if you run a lot. Use 1 per 3 completion usually. (8~9 ccs per completion)
+Long last. Cheap if you run a lot. Use 1 per 3 completion usually.
 
 - ***Bathypelagic Brew**
 
@@ -255,7 +255,7 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 ## Consumables as Tank:
 
-* means Not Must!!
+  \* means Not Must!!
 
 - ***Epipelagic Essence**
 
@@ -277,9 +277,9 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - Normal Treasure (Mid Left)
 
-- *Normal Others (Ability Top Left / Upgrade Top Right)*
+- *Normal Others* (Ability Top Left / Upgrade Top Right)
 
-- *Elite Treasure (Mid Right)*
+- *Elite Treasure* (Mid Right)
 
 > These 2 are flexible depends on if you want a greater loot all in 1 run or more loot per unit time. If you want all in 1 then choose ET.
 
@@ -289,59 +289,35 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 # Skill priority
 
-  All the Sneak + LMB abilities conflict with Rapid Fire on Titan Spear.
+  All the Sneak + LMB abilities conflict with Rapid Fire on Titan Spear. You can disable its trigger in Yellow Tess u.
 
   Stats are counted at Legendary Rarity.
 
 ## DPS
 
-  Become worse and worse from up to down
+  Become worse and worse from up to down in terms of DPS boost, in overall / 15 seconds (The Sorting Basis. It's the time limit to 1 phase f1 boss, Or 12 seconds if minus the time with blindness since you can't crit) / 5 seconds
 
-- **Radiant Blessing**: Effectively *156.36%. The 1st overall dps boost (conflict with Cloak of Shadows, which helps a lot in f2)
+- Aeromancy: Effectively *124%. F3 boss count towards Airborn requirement, in which becomes effectively *137.888%
 
-- Advancing Shadows: Effectively *138.89%.
-
-- Aeromancy: Effectively *124%. The 1st passive dps boost. F3 boss count towards Airborn requirement, in which is effectively *137.888%
-
-- Brutalize: Effectively *121%.
+- Brutalize: Effectively *121%
 
 - Dark Combos: The procceding of Vuln effect very inconsitant during my gameplay. So the number is only for myself. Effectively *118% ~ *122.5% (from 3 out of 5 to 3 out of 4).
 
-- Dethroner: Effectively *120%.
+- Dethroner: Effectively *120%
 
-- Deadly Strike: Effectively *117.5%.
+- Deadly Strike: Effectively *117.5%
 
-- Chaos Dagger: Effectively *113.64%.
+- Radiant Blessing: Effectively *110.91% / 116% / 124%. Conflict with Cloak of Shadows.
 
-- **Cloak of Shadows**: Stealth makes f2 boss de-aggro from you. Weaken helps tanking f2 boss. Effectively *112%.
+- Advancing Shadows: Effectively *111.11% / 113.33% / 140%
+
+- Chaos Dagger: Effectively *109.09% / 113.33% / 140%
+
+- **Cloak of Shadows**: Effectively *105.33% / 105.33% / 116% .Stealth makes f2 boss de-aggro from you. Weaken helps tanking f2 boss. 
 
 (Lighting bottle is not in the list due to it takes hotbar. Effectively *120%.)
 
 (These are only stats on paper. Things like you killed boss before the skill goes off Cooldown happens. Only take a salt of them.)
-
-## Burst
-
-  Become worse and worse from up to down
-
-- **Chaos Dagger**: Effectively *300%.
-
-- **Cloak of Shadows**: Effectively *180%.
-
-- Advancing Shadows: Effectively *140%.
-
-- Aeromancy: Effectively *124%. Effectively *137.888% for f3 boss.
-
-- Dark Combos: Effectively *130%.
-
-- Radiant Blessing: Effectively *124%.
-
-- Brutalize: Effectively *121%.
-
-- Dethroner: Effectively *120%.
-
-- Deadly Strike: Effectively *117.5%.
-
-(Lighting bottle is not in the list due to it takes hotbar. Effectively *120%.)
 
 ## Tank
 
@@ -353,11 +329,11 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - Bulwark
 
+- Totem of Salvation (should be higher than Bulwark but it's from other tree)
+
 - Stone Skin
 
 - Rejuvenation
-
-- Bramble Shell
 
 ## Support
 
@@ -365,9 +341,13 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - **Radiant Blessing**
 
+- Totem of Salvation (at Epic or higher level)
+
 - Ward of Light
 
 - Bottled Sunlight
+
+- Totem of Salvation (at Rare or lower level)
 
 - Sundrops
 
@@ -387,7 +367,7 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 - Steel Stallion (Steelsage)
 
 - *Cry because Cryobox (Frostborn)*
-> Remove it once you get it!!
+> Remove it once you get it unless you are playing tank role.
 
 ## Utility rooms
 
@@ -397,29 +377,29 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 **NEVER EVER EVER touch the botton if you don't want to roll it for yourself**
 
-- Remove skills
+- Remove skills (f1 only)
 
 Remove the one skill which will conflict with your core skill.
 
-- Borrow skills
+- Borrow skills (f2 only)
 
 Idk what to explain, just choose something you want but not in your trees.
+
+- Dummy and Disc (f3 only)
+
+The button offers 1 treasure point so don't forget to do that. Doesn't lose its effect after opening a new room.
 
 - Potions
 
 For each potion room,  leave at least 3 potions to DPS for tanking f3 boss skill (or f2 if something goes incrediblely wrong) while DPSing.
 
-- Dummy and Disc
-
-The button offers 1 treasure point so don't forget to do that. Doesn't lose its effect after opening a new room.
-
 # Misc Tips
 
-- Don't be too harry opening new room. Treasure chest has to be claimed manually to get the treasure scout added into your run.
+- Don't be too harry opening new room. Treasure chest has to be claimed manually to get the treasure score added into your run.
 
 - You can claimed your ability / upgrade by right click on your Depth Trinket. Do that upon treasure room get opened so you don't have to speedrun ability / upgrade picking to get the treasure.
 
-- Block the entrance of boss room really helps. You can't directly place blocks on the outline so be careful while using Firm, although Loom can do it in 1 clock instead. If you have ton of mobs aggro on you, better not rush into boss room instead to make sure mobs doesn't enter boss room as well.
+- Block the entrance of boss room really helps. You can't directly place blocks on the outline so be careful while using Firm, although Loom can do it in 1 click instead. If you have ton of mobs aggro on you, better not rush into boss room to make sure mobs doesn't enter boss room as well. They can make the game 50% more harder for DPS.
 
 - Don't be too harry starting boss at f1. DPS has to swap thier loadout, drink several potions and eat FoL. If you start the boss, the Armory/EChest GUI currently opening will be closed. Cannot kill f1 boss in 1 phase will waste even more time than just wait for DPS.
 
@@ -429,9 +409,9 @@ The button offers 1 treasure point so don't forget to do that. Doesn't lose its 
 
 - The amount of adds summoned in boss fight is scaled by the people amount once the boss fight start. In NDD, mostly seen in f2 and f3.
 
-- Attack those adds summoned in boss fight. It pulls aggro to you so that DPS can have a better environment. Don't come too close to boss in f3 though, the AOE spell casted by elite has a really big radius.
+- Attack those adds summoned in boss fight. It pulls aggro to you so that DPS can have a better environment. Don't come too close to boss in f2 / f3 though.
 
-- Due to the ranged mob's path finding AI, place the blocks like this will make it cannot directly shoot at DPS (numbers means block height, x means it's where you place blocks initially which will cause ranged mob can shoot at DPS).
+- Due to the ranged mob's path finding AI, place the blocks like this will make it cannot directly shoot at DPS (numbers means block height, x means it's where you place blocks initially, which will cause ranged mob able to shoot at DPS).
 
 >		0	0	0	0	1	1	1	0	0	0	0
 >		0	0	0	0	x	x	x	0	0	0	0
@@ -445,9 +425,9 @@ The button offers 1 treasure point so don't forget to do that. Doesn't lose its 
 >		0	0	0	0	x	x	x	0	0	0	0
 >		0	0	0	0	1	1	1	0	0	0	0
 
-- The Earth skill Stone Skin (Sneak + RMB) only affects yourself unlike Defence Line. Radiant Blessing gives Resistance instead of Speed unline Celeste Blessing.
+- The Earth skill Stone Skin (Sneak + RMB) only affects yourself unlike Defence Line. Radiant Blessing gives Resistance instead of Speed unlike Celeste Blessing.
 
-- The iframe in Monumenta is seperated by Melee / Projectile / Magic. Some of the skills ignore iframes as well but we don't talk about them too much here. In this case, if A deals 50 damage with thier melee attack first, then B deals 100 damage with thier melee attack, the final damage taken by the enemy is 100 (50 melee damage by A and 50 melee damage by B) in that one iframe. But if A deals 50 damage with thier projectile attack first, then B deals 100 damage with thier melee attack, the final damage taken by the enemy is 150 (50 projectile damage by A and 100 melee damage by B) in that one iframe instead. Skills like Flamestrike has their iframe seperate with itself (like you can't spam Alch potion on one enemy in 0.5 second), means it doesn't and also can't be affect by iframes created by other attacks. This rules not only works for DD but also ALL other content. Outside of DD, skills like Rampage / Cloak and Dagger have more issue with iframe. In the previous case 'A deals 50 melee damage first then B deals 100 melee damage in that same iframe', A dealt 50 damage so get 50 damage count towards to Rampage, while B dealt 100 damage but only get 50 damage count towards to Rampage.
+- **Very Many Important** The iframe in Monumenta is seperated by Melee / Projectile / Magic. Some of the skills ignore iframes as well but we don't talk about them too much here. In this case, if A deals 50 damage with thier melee attack first, then B deals 100 damage with thier melee attack within the same iframe, the final damage taken by the enemy is 100 (50 melee damage by A and 50 melee damage by B). But if A deals 50 damage with thier projectile attack first, then B deals 100 damage with thier melee attack within the same iframe, the final damage taken by the enemy is 150 (50 projectile damage by A and 100 melee damage by B). Skills like Flamestrike has their iframe seperate with itself (just like how you can't spam Alch potion on one enemy), means it doesn't and also can't be affect by iframes created by other attacks. This rules not only works for DD but also ALL other content. Outside of DD, skills like Rampage / Cloak and Dagger have more issue with iframe. In the previous case 'A deals 50 melee damage first then B deals 100 melee damage within the same iframe, A dealt 50 damage so get 50 damage count towards to Rampage, while B dealt 100 damage but only get 50 damage count towards to Rampage.
 > TL;DR: If you are DPS, nothing really should be done. If you are not DPS but want to do something to boss, either do nothing instead, or attack boss with a projectile weapon / magic spell.
 
 - A vanilla trick that, the blast damage taken is calculated by how many % of you are exposed to the explosive, start from the bottom of your hitbox. By placing a block in front of yourself between explosive, you can negative the blast damage taken to only 10% or even lesser (depends on the hardness of the block). Of course in most case shield will do better than this.
@@ -459,3 +439,55 @@ The button offers 1 treasure point so don't forget to do that. Doesn't lose its 
 - *Not directly about NDD.* Sell your geode at mid price of stonkco to others at bazzar or somewhere else instead of dump them to stonkco, in which will make geode price becomes lower and lower, so that you get lesser and lesser profit from NDD.
 
 - *Same above.* Artifacts can be trade to 8 geode at NPC, so before you price your artifact, check if it's lower than just trade them for geode.
+
+# List of skilled Players I've known during my NDD Speedrun grind
+  Will also mark out the role they main. I main DPS most of time so some of them may have DPS set as well but I don't know about it.
+
+
+	Leaderboard - Darkest Depths Clears
+
+	Rank	|	Name		|	Score
+
+	1	-	HuiyingZz	-	857	DPS / Tank
+
+	2	-	cqmera		-	582	Tank
+
+	6	-	Magic58994	-	264	Tank
+
+	15	-	lavaangmagma	-	214
+
+	18	-	aGrxpe		-	199	DPS
+
+	23	-	_wu_feng_	-	166
+
+	25	-	Arco23		-	162	Tank
+
+	27	-	Raikiy		-	153
+
+	32	-	owo12122	-	142
+
+	35	-	WaterBebu	-	141	Tank
+
+	39	-	er3222		-	134	Tank
+
+	56	-	Onion_is_idot	-	107	DPS
+
+	68	-	iFading		-	92
+
+	79	-	Halewen		-	87	DPS / Tank
+
+	81	-	Harry_Cake	-	86
+
+	83	-	qL_inderHerbst	-	85
+
+	95	-	_sigia		-	77
+
+	100	-	5a7		-	74
+
+	126	-	emilyloaf	-	62
+
+	130	-	a_hatintime	-	61
+
+	136	-	_LaPluma_	-	59
+
+	167	-	ImLikeSoCat	-	46	DPS
