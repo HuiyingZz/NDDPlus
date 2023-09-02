@@ -73,6 +73,8 @@ Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
 
 Gives you better Damage Reduction and Knockback Resistance which both really helps a lot when breaking spawners.
 
+Recommend to use it with *Haste*.
+
 - **Dionaeas Graft**
 
 11 Mining Speed. 14 ticks (0.7s) / 12 ticks (0.6s) to break a spawner.
@@ -81,25 +83,29 @@ Budget EShaker which has no defence stats and a bit lesser healing but do be che
 
 *Eruption* can trigger *Sapper*, yes, but in actual scenario teammates is not that close to each other usually.
 
+Recommend to use it with *Haste* (to get lesser hit while breaking spawners).
+
 - **Ocean's Bounty**
 
 16 Mining Speed. 10 ticks (0.5s) / 8 ticks (0.4s) to break a spawner.
 
-Not recommond unless using it with *Regen* potion. Have to get lots of healing from other source like Infusions and Potions since *Sapper* 1 heals such less.
+Not recommond unless using it with either *Haste* or *Regen* (to get other consistance healing source) potion.
 
 - **Shattershrine**
 
 The same Mining stats as above.
 
-*Adrenaline* speed ups the clear stage a lot, but use it with your own risk.
+*Adrenaline* speed ups the clear stage a lot.
 
-The same as Ocean's Bounty.
+The same survivability as Ocean's Bounty.
 
 - **Boreas Mattock**
 
 23 Mining Speed. 7 ticks (0.35s) / 6 ticks (0.3s) to break a spawner.
 
-I've never touched this so not sure its survivability.
+It's fast enough to called **game chaging**. Mobs can never catch you even you get slow'd. Only things could hit you while running are mobs just spawned or magic skill.
+
+The same survivability as Ocean's Bounty.
 
 *Curse Of Corruption* has been consumed.
 
@@ -115,7 +121,7 @@ Count as a melee weapon so it can cast ability while also function as a shield.
 
 - **Phoenix's Gaze**
 
-Not only a decent weapon but also can break (sometimes) wooden block above chest.
+Not only a decent weapon but also can break (sometimes) wooden block above the reward chest.
 
 - **Dissolvi Ombre**
 
@@ -153,7 +159,7 @@ BiS general defence. *Curse Of Corruption* has been consumed.
 
 - **Departure**
 
-BiS Speed. Great general defence.
+BiS Speed. Great general defence. *Curse Of Corruption* has been consumed.
 
 - **Phasing Chestplate**
 
@@ -161,7 +167,7 @@ BiS Speed which isn't *Adrenaline*. Good general defence. No need to worry about
 
 - **Bounty Hunter's Gambeson**
 
-BiS Knockback Resistance. Good general defence (better than Phasing without Situational Enchantments on).
+Not really a good choice but BiS Knockback Resistance. Good general defence (better than Phasing without Situational Enchantments on).
 
 - **Emblem of the Last Gift**
 
@@ -187,7 +193,7 @@ BiS Speed. Not bad general defence. *Regen* 1 as sweet spot. No need to worry ab
 
 - **Wit's End**
 
-BiS Damage Reduction. -2 HP kinda hurt. (Use with Vitality?)
+BiS Damage Reduction. -2 HP kinda hurtfor EHP wise. (Use with Vitality?)
 
 ## Boots:
 
@@ -209,7 +215,7 @@ Gives you greater mobility, especially on vertical, which helps you escape from 
 
 - **Loom**
 
-Use it with *Recoil* item gives you infinity survivability in clutch. Also very useful against Seeker's laser, or could also be used as blocking the entrance of room to get rind of mobs.
+Using with *Recoil* item gives you infinity survivability in clutch. Also very useful against Seeker's laser, or could also be used as blocking the entrance of room to get rid of mobs.
 
 - **Shield**
 
@@ -227,7 +233,7 @@ Nice healing and foodbar-filling item, but with a long Cooldown so better save i
 
   \* means Not Must!!
 
-- ***Empowered Azure Mixture**
+- ***(Empowered) Azure Mixture**
 
 Low last. Cheap. Use 2-3 per 1 complete usually.
 
@@ -243,7 +249,7 @@ Long last. Cheap if you run a lot. Use 1 per 3 completion usually.
 
 Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
-- **Sliver of Perfection** / **Fruits of the Catch** / (Porkchop directly drops 1 stack from 1 completion of ndd)
+- **Sliver of Perfection** / **Fruits of the Catch** / (Porkchop, directly drops 1 stack from 1 completion of ndd)
 
 ## Consumables as DPS:
   
@@ -277,13 +283,13 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - Normal Treasure (Mid Left)
 
-- *Normal Others* (Ability Top Left / Upgrade Top Right)
+- *Normal Others* (Ability Top Left \> Upgrade Top Right)
 
 - *Elite Treasure* (Mid Right)
 
-> These 2 are flexible depends on if you want a greater loot all in 1 run or more loot per unit time. If you want all in 1 then choose ET.
+> These 2 are flexible depends on if you want a greater loot all in 1 run or more loot per unit time.
 
-- Elite Others (Ability Bottom Left / Upgrade Bottom Right)
+- Elite Others (Ability Bottom Left \> Upgrade Bottom Right)
 
 - Twisted (Mid)
 
@@ -341,13 +347,11 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - **Radiant Blessing**
 
-- Totem of Salvation (at Epic or higher level)
-
-- Ward of Light
+- Totem of Salvation
 
 - Bottled Sunlight
 
-- Totem of Salvation (at Rare or lower level)
+- Ward of Light
 
 - Sundrops
 
@@ -391,7 +395,7 @@ The button offers 1 treasure point so don't forget to do that. Doesn't lose its 
 
 - Potions
 
-For each potion room,  leave at least 3 potions to DPS for tanking f3 boss skill (or f2 if something goes incrediblely wrong) while DPSing.
+Leave potions to DPS (or Tank if you are good enough to take care of DPS) for tanking f3 boss skill (or f2 if something goes incrediblely wrong) while DPSing.
 
 # Misc Tips
 
@@ -430,13 +434,13 @@ For each potion room,  leave at least 3 potions to DPS for tanking f3 boss skill
 - **Very Many Important** The iframe in Monumenta is seperated by Melee / Projectile / Magic. Some of the skills ignore iframes as well but we don't talk about them too much here. In this case, if A deals 50 damage with thier melee attack first, then B deals 100 damage with thier melee attack within the same iframe, the final damage taken by the enemy is 100 (50 melee damage by A and 50 melee damage by B). But if A deals 50 damage with thier projectile attack first, then B deals 100 damage with thier melee attack within the same iframe, the final damage taken by the enemy is 150 (50 projectile damage by A and 100 melee damage by B). Skills like Flamestrike has their iframe seperate with itself (just like how you can't spam Alch potion on one enemy), means it doesn't and also can't be affect by iframes created by other attacks. This rules not only works for DD but also ALL other content. Outside of DD, skills like Rampage / Cloak and Dagger have more issue with iframe. In the previous case 'A deals 50 melee damage first then B deals 100 melee damage within the same iframe, A dealt 50 damage so get 50 damage count towards to Rampage, while B dealt 100 damage but only get 50 damage count towards to Rampage.
 > TL;DR: If you are DPS, nothing really should be done. If you are not DPS but want to do something to boss, either do nothing instead, or attack boss with a projectile weapon / magic spell.
 
-- A vanilla trick that, the blast damage taken is calculated by how many % of you are exposed to the explosive, start from the bottom of your hitbox. By placing a block in front of yourself between explosive, you can negative the blast damage taken to only 10% or even lesser (depends on the hardness of the block). Of course in most case shield will do better than this.
-> Showcase of 'placing a block in front of yourself between explosive'. C means creeper, P means player, Q means  block.
+- A vanilla trick that, the blast damage taken is calculated by how many % of you are exposed to the explosive, which in the case, the explosion start from the bottom of creeper hitbox. By placing a block in front of yourself between explosive, you can negative the blast damage taken to only 10% or even lesser (depends on the hardness of the block). Of course, in most case shield will do better than this.
+> Showcase of 'placing a block in front of yourself between explosive'. C means creeper, P means player, Q means block.
 > 
 >		C		P
 >		C	Q	P
 
-- *Not directly about NDD.* Sell your geode at mid price of stonkco to others at bazzar or somewhere else instead of dump them to stonkco, in which will make geode price becomes lower and lower, so that you get lesser and lesser profit from NDD.
+- *Not directly about NDD.* Sell your geode at mid price of stonkco at bazzar or somewhere else instead of dump them to stonkco, in which will make geode price becomes lower and lower, so that you get lesser and lesser profit from NDD.
 
 - *Same above.* Artifacts can be trade to 8 geode at NPC, so before you price your artifact, check if it's lower than just trade them for geode.
 
