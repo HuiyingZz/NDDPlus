@@ -6,7 +6,7 @@ The sub page of NDDPlus wiki. Directs you to each part of the guide by sidebar.
 
   If you don't have / can't affort some of the items used in these sets, read below to check if it has alternative piece.
 
-## [Armor Best-in-Slot set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Tear%20of%20the%20Moon&h=Rootweave%20Diadem&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
+## [Armor Best-in-Slot set](https://www.ohthemisery.tk/builder/m=None&o=Tear%20of%20the%20Moon&h=Rootweave%20Diadem&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
 
 153.6% Speed as base.
 
@@ -16,13 +16,13 @@ Damage Reduction doesn't rely on Situational Enchantments like *Reflex* in Agi B
 
 *Curse Of Corruption* has been consumed.
 
-## [Agi Best-in-Slot set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Dragonbone%20Dagger&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Mist's%20Wake)
+## [Agi Best-in-Slot set](https://www.ohthemisery.tk/builder/m=None&o=Dragonbone%20Dagger&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Mist's%20Wake)
 
 132% Speed as base. *Adrenaline 5* (+50% Speed for 3 seconds Potion Effect upon attack, +25% for 6 seconds upon break spawner), so 198% Speed upon attack, 165% upon break spawner.
 
 *Curse Of Corruption* has been consumed.
 
-## [Agi budget set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Merchant's%20Curio&h=Crest%20of%20the%20Tundra&c=Phasing%20Chestplate&l=Galemage's%20Greaves&b=Mist's%20Wake)
+## [Agi budget set](https://www.ohthemisery.tk/builder/m=None&o=Merchant's%20Curio&h=Crest%20of%20the%20Tundra&c=Phasing%20Chestplate&l=Galemage's%20Greaves&b=Mist's%20Wake)
 
 138% Speed as base.
 
@@ -30,7 +30,7 @@ Generally higher Damage Reduction than BiS. *Tempo* 1 doesn't really exist.
 
 Melee damage sucks a bit.
 
-## [Agi IDNWTGDDWDIU set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
+## [Agi IDNWTGDDWDIU set](https://www.ohthemisery.tk/builder/m=None&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
 
 I Do Not Want To Get Dragonbone Dagger What Do I Use
 
@@ -38,17 +38,19 @@ I Do Not Want To Get Dragonbone Dagger What Do I Use
 
 Generally around the same Damage Reduction with budget set. 
 
-## [Agi PGMWYARSS set](https://www.ohthemisery.tk/builder/m=The%20Earthshaker&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Blackthread%20Boots)
+## [Huiying's Build (Not recommend unless you can get all level 4 infusions)](https://www.ohthemisery.tk/builder/m=Boreas%20Mattock&o=Dragonbone%20Dagger&h=Crown%20of%20the%20Depths&c=Bounty%20Hunter's%20Gambeson&l=Galemage's%20Greaves&b=Mist's%20Wake&charm=None)
 
-Please Get Mist's Wake You Are Running So Slow
+Sometimes use **Phasing Chestplate**.
 
-105% Speed as base. *Adrenaline* 5, so 157.5% Speed upon attack, 131.25% upon break spawner.
+Infusions: Tenacity (mine is at 18), Blue / Cyan / Orange / TFF / Pink / Lime (Pickaxe) / Willow (TNorth)
 
-Better Blast Damage Reduction.
+What's good about it:
+
+150% (161% with Phasing) Speed as base. Not bad DR. KBR as sweet point if using Gambeson. Mattock has hyper mining speed. Overall you are just going super fast if you are fine with the DR.
 
 ## [Agi DPS set](https://www.ohthemisery.tk/builder/m=Titan%20Spear&o=Accident%20Prone&h=Horseman's%20Head&c=Crusadoth&l=Salazar's%20Greed&b=Sailwoven%20Sandals)
 
-Infusions: TFF / Ruin / EC / (Orange / Pink / LB / Teal)
+Infusions: Vigor, TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 
 *To be Verified:* Since *Slowness* doesn't affect bosses anymore therefor there is no need to get Yellow nor Magenta.
 
@@ -154,6 +156,10 @@ BiS Speed. Good general defence.
 - **Crest of the Tundra**
 
 BiS general defence. *Curse Of Corruption* has been consumed.
+
+- **Crown of the Depths**
+
+BiS Speed which isn't *Adrenaline*. Not bad general defence.
 
 ## Chestplate:
 
@@ -468,7 +474,7 @@ Leave potions to DPS (or Tank if you are good enough to take care of DPS) for ta
 
 	27	-	Raikiy		-	153
 
-	32	-	owo12122	-	142
+	32	-	owo12122	-	142	DPS / TANK
 
 	35	-	WaterBebu	-	141	Tank
 
@@ -488,7 +494,7 @@ Leave potions to DPS (or Tank if you are good enough to take care of DPS) for ta
 
 	100	-	5a7		-	74
 
-	126	-	emilyloaf	-	62
+	126	-	emilyloaf	-	62	Tank
 
 	130	-	a_hatintime	-	61
 
