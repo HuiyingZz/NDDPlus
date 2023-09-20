@@ -28,25 +28,25 @@ Damage Reduction doesn't rely on Situational Enchantments like *Reflex* in Agi B
 
 Generally higher Damage Reduction than BiS. *Tempo* 1 doesn't really exist.
 
-Melee damage sucks a bit.
+Melee damage sucks a bit, consider swap offhand to something else at boss.
 
-## [Agi IDNWTGDDWDIU set](https://www.ohthemisery.tk/builder/m=None&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
-
-I Do Not Want To Get Dragonbone Dagger What Do I Use
+## [Agi No-DBone set](https://www.ohthemisery.tk/builder/m=None&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
 
 125% Speed as base. *Adrenaline* 5, so 187.5% Speed upon attack, 156.25% upon break spawner.
 
 Generally around the same Damage Reduction with budget set. 
 
-## [Huiying's Build (Not recommend unless you can get all level 4 infusions)](https://www.ohthemisery.tk/builder/m=Boreas%20Mattock&o=Dragonbone%20Dagger&h=Crown%20of%20the%20Depths&c=Bounty%20Hunter's%20Gambeson&l=Galemage's%20Greaves&b=Mist's%20Wake&charm=None)
+## [Huiying's Build](https://www.ohthemisery.tk/builder/m=Boreas%20Mattock&o=Dragonbone%20Dagger&h=Crown%20of%20the%20Depths&c=Bounty%20Hunter's%20Gambeson&l=Galemage's%20Greaves&b=Mist's%20Wake&charm=None)
+
+Not recommend unless you can get high level infusions.
 
 Sometimes use **Phasing Chestplate**.
 
-Infusions: Tenacity (mine is at 18), Blue / Cyan / Orange / TFF / Pink / Lime (Pickaxe) / Willow (TNorth)
+Infusions: Tenacity (myself is good with 18), Blue / Cyan / Orange / TFF / Pink / Lime (Pickaxe) / Willow (TNorth)
 
 What's good about it:
 
-150% (161% with Phasing) Speed as base. Not bad DR. KBR as sweet point if using Gambeson. Mattock has hyper mining speed. Overall you are just going super fast if you are fine with the DR.
+150% (161% with Phasing) Speed as base. Not bad DR. KBR as sweet point if using Gambeson. Mattock has hyper mining speed. Overall you are just going super fast whether broke spawner or not, if you are fine with the DR.
 
 ## [Agi DPS set](https://www.ohthemisery.tk/builder/m=Titan%20Spear&o=Accident%20Prone&h=Horseman's%20Head&c=Crusadoth&l=Salazar's%20Greed&b=Sailwoven%20Sandals)
 
@@ -60,7 +60,7 @@ Infusions: Vigor, TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 
 ## [Tank set](https://www.ohthemisery.tk/builder/m=Truest%20North-3&o=Dryadic%20Temptation&h=The%20Knight's%20Pledge&c=The%20Godshell&l=Iridium%20Greaves&b=Old%20Ice%20Brogues)
 
-Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
+Replacement for helmet: FGC (trade EHP for DR and E-Healing Rate). Budget replacement for leggings: Cephalopodic Chains.
 
 **4 HP is your danger zone where you get 2 shot with my set.** Pop your IH2 / Absorption / Totem / Tincture once you fall into it.
 
@@ -71,43 +71,31 @@ Replacement for helmet: FGC. Replacement for leggings: Cephalopodic Chains.
 
 - **The Earthshaker**
 
-12 Mining Speed. 13 ticks (0.65s) / (with *Haste* 1 Potion Effect) 11 ticks (0.55s) to break a spawner. 
+12 Mining Speed. 13 ticks (0.65s) / (with *Haste* 1 Potion Effect:) 11 ticks (0.55s) to break a spawner. 
 
 Gives you better Damage Reduction and Knockback Resistance which both really helps a lot when breaking spawners.
 
-Recommend to use it with *Haste*.
-
-- **Dionaeas Graft**
-
-11 Mining Speed. 14 ticks (0.7s) / 12 ticks (0.6s) to break a spawner.
-
-Budget EShaker which has no defence stats and a bit lesser healing but do be cheap enough.
-
-*Eruption* can trigger *Sapper*, yes, but in actual scenario teammates is not that close to each other usually.
-
-Recommend to use it with *Haste* (to get lesser hit while breaking spawners).
+Hightly recommend to use it with *Haste* potion.
 
 - **Ocean's Bounty**
 
 16 Mining Speed. 10 ticks (0.5s) / 8 ticks (0.4s) to break a spawner.
 
-Not recommond unless using it with either *Haste* or *Regen* (to get other consistance healing source) potion.
+Recommond to use it with *Haste* potion to get less hit.
 
 - **Shattershrine**
 
 The same Mining stats as above.
 
-*Adrenaline* speed ups the clear stage a lot.
+*Adrenaline* speed ups the clear stage a viable bit and the knockback from *Eruption* sometimes helps you get less hit.
 
-The same survivability as Ocean's Bounty.
+The same as Ocean's Bounty.
 
 - **Boreas Mattock**
 
 23 Mining Speed. 7 ticks (0.35s) / 6 ticks (0.3s) to break a spawner.
 
-It's fast enough to called **game chaging**. Mobs can never catch you even you get slow'd. Only things could hit you while running are mobs just spawned or magic skill.
-
-The same survivability as Ocean's Bounty.
+It's fast enough to called **game chaging**. Mobs can never catch you even you get slow'd. Only things could hit you while running are mobs just spawned on your face or ranged attack.
 
 *Curse Of Corruption* has been consumed.
 
@@ -125,13 +113,13 @@ Count as a melee weapon so it can cast ability while also function as a shield.
 
 Not only a decent weapon but also can break (sometimes) wooden block above the reward chest.
 
-- **Dissolvi Ombre**
+- **Dissolvi Ombre** / **Busturus** / **Putrid Maw** / **Talaya's Blossom**
 
 Kill the plants faster in F1 boss fight.
 
 - **Aleph** / **Poacher's Rifle** / **Carcano 91/38** / **K'x'aehdd**
 
-Kill the eyes faster in f3 boss fight. (*To be Verified:* You only need to deal ~32 damage to each eyes and they will bleed to death)
+Kill the eyes faster in f3 boss fight.
 
 ## Offhand:
 
@@ -177,7 +165,7 @@ Not really a good choice but BiS Knockback Resistance. Good general defence (bet
 
 - **Emblem of the Last Gift**
 
-Not really a good choice unless you happen to have it. Worse *Reflex* slot.
+Not recommend unless you want even more *Reflex*.
 
 ## Leggings:
 
@@ -215,7 +203,7 @@ BiS general defence. +5% Speed as Sweet spot. No need to worry about durability.
 
   Not have to get them but it's such a good-to-have
 
-- **Any *Recoil* item**
+- **Any *Recoil* or *Riptide* item**
 
 Gives you greater mobility, especially on vertical, which helps you escape from mob sea or quick build up.
 
@@ -231,9 +219,9 @@ Creepers is a heavy damage source, which you can block them with a shield. Also 
 
 Sometimes chest will spawn under a wooden block, which will cost years to break, and mobs are apporching you every milisecond. An axe will slove this issue.
 
-- **Heart of the Jungle**
+- **Heart of the Jungle** or **Potion Injector**
 
-Nice healing and foodbar-filling item, but with a long Cooldown so better save it when you really need it.
+Nice healing and foodbar-filling item, but with a long Cooldown so better save it when you really need it. I don't use PI myself so no conment about it.
 
 # Consumables:
 
@@ -241,27 +229,27 @@ Nice healing and foodbar-filling item, but with a long Cooldown so better save i
 
 - ***(Empowered) Azure Mixture**
 
-Low last. Cheap. Use 2-3 per 1 complete usually.
+Low last. Cheap. Use 2-3 per 1 completion usually.
 
-- ***Strong Dichen Energy Brew**
+- ***(Strong) Dichen Energy Brew**
 
-Low last. Cheap. Use 2-3 per 1 complete usually.
+Low last. Cheap. But no Speed. Use 2-3 per 1 completion usually.
 
 - ***Extract of the Eternal**
 
-Long last. Cheap if you run a lot. Use 1 per 3 completion usually.
+Long last. Cheap if you run a lot. Use 1 per 3 completions usually.
 
 - ***Bathypelagic Brew**
 
 Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
-- **Sliver of Perfection** / **Fruits of the Catch** / (Porkchop, directly drops 1 stack from 1 completion of ndd)
+- **Sliver of Perfection** / **Fruits of the Catch** / (Porkchop, directly drops 1 stack from 1 completion)
 
 ## Consumables as DPS:
   
 *3 of each kind per 1 completion.*
 
-- **Wolfswood's Fury** (r3 loot chest / Portal complete / GS complete / SKT complete)
+- **Wolfswood's Fury** / **Strong Potion of Warcry**
 
 - **Charger's Lager** (Can be found in Molta bar).
 
@@ -271,13 +259,13 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - ***Epipelagic Essence**
 
-*Regen* 3 Potion effect, which is 1.6 HP / 12 ticks (0.6s) .
+*Regen* 3 Potion effect, which is 1.6 HP / 12 ticks (0.6s), or say 2.67 HP/s .
 
 *Directly drops from dd.*
 
 - ***Strong Restorative Shield**
 
-*Regen* 2 Potion effect, which is 0.8 HP / 25 ticks (1.25s).
+*Regen* 2 Potion effect, which is 0.8 HP / 25 ticks (1.25s), or say 0.64 HP/s.
 
 - **Any 40% Instant Healing mix with any 40% Absorption**
 
@@ -401,9 +389,11 @@ The button offers 1 treasure point so don't forget to do that. Doesn't lose its 
 
 - Potions
 
-Leave potions to DPS (or Tank if you are good enough to take care of DPS) for tanking f3 boss skill (or f2 if something goes incrediblely wrong) while DPSing.
+Leave potions to DPS (or Tank, either if you are good enough to take care of DPS, or pass them to DPS at boss) for tanking boss skill while DPSing.
 
 # Misc Tips
+
+- Don't use golem (or called 'Metalmancy') at boss. Don't use golem (or called 'Metalmancy') at boss. Don't use golem (or called 'Metalmancy') at boss.
 
 - Don't be too harry opening new room. Treasure chest has to be claimed manually to get the treasure score added into your run.
 
