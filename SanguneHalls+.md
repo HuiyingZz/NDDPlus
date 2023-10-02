@@ -1,130 +1,123 @@
-The sub page of NDDPlus wiki. Directs you to each part of the Sanguine Halls, the map of Gallery of Fear build guide by sidebar.
+The sub page of NDDPlus wiki. Guide for Sanguine Halls, the 1st map of Gallery of Fear.
 
-You could use */ps [username]* to check what piece others currently missing. It's very helpful for the guy doing box (usually one of the guardian or paladin)
+You could use */ps [username]* to check what piece others currently missing.
 
 Example:
 
 	/ps HuiyingZz
 
-As a general tip for all non-guardian classes: Shield can block golem's melee and attack but dash/meteor/vindicators/magic missle breaks it. In that case, Annilys may help you survive.
+As a general tip for all classes: Bring yourself a shield and/or Annilys in hotbar. They are very useful when you are about to take huge damage or trying to revive someone in late game.
 
 Current Group WR (wave 91) Strat: 2 Guardian, 1 Paladin, 1 Harb
 
-# Presets of builds:
+# Presets of builds for WR:
 
   Here's some presets if you don't really wanna spend time to constumize a set.
   Charms and Skill layout are the key points. Armor is only a direction.
 
 ## [Guardian](https://www.ohthemisery.tk/builder/m=None&o=Blackblood%20Coagulant-3&h=Stonewrought%20Helmet-3&c=Crimson%20Ribcage-3&l=Mycelic%20Skin-3&b=Shrouded%20Sabatons-3&charm=Arc-_Aegis-4-W,Swi-efense-2-W,Sed-efense-3-W,Ser-ineage-3-W)
 
-### [Another build if no cleric in team](https://www.ohthemisery.tk/builder/charm=Arc-_Aegis-4-W,Fec-Basket-3-G,Del-_Fruit-2-G,Ser-ineage-3-W)
+[Another set with better speed if you enjoy saturation stack](https://www.ohthemisery.tk/builder/m=None&o=Hexborn%20Shard-3&h=Stonewrought%20Helmet-3&c=Hycenea's%20Chains-3&l=Core-Injected%20Safety%20Suit-3&b=Aether%20Threads-3&charm=Arc-_Aegis-4-W,Swi-efense-2-W,Sed-efense-3-W,Ser-ineage-3-W)
 
-Gallery armor: 4 tank, offhand shield, mainhand Soulsinger / Annilys 
+Gallery armor: 4 tank, offhand shield, mainhand Soulsinger / Annilys
 
 ### Skill layout
 
-Base: DLine 2u, Toughness 2u,  Riptose 2, Shield Bash 2 (the left 2 can be any)
+Base: DLine 2u, Toughness 2u, Riptose 2, Shield Bash 2 (the left 2 can be any)
 
 Spec: Bodyguard 0
 
 ### Gameplay
 
-If you are the only guardian and no paladin in team, better just don't run guardian. If you are the only guardian and only 1 paladin in team, discusse with your team about how to get enlightment at start of each round without enlightment, and get your Mountain Dew ready. If you have 2 guardians in team, time and sync your and another guardian's wall.
+Time and sync your and another guardian's wall.
 
-Wall doesn't expand to anywhere has a lower Y than you. Wall has only 5 blocks height.
+Wall doesn't expand to anywhere has a lower Y than you. It has only 5 blocks height as well.
 
-Against golem's aggro changing: Whose wall is it then who (call them A for next prase) A Shield Bash golem first. B Bash it next. (B cast Wall.) B Challenge it next. B Bash it next. (A cast Wall.) A Challenge it next. A guardian Bash it next. (<- Repeat)
+Golem: Whose wall is it then who (call them A for next prase) A Shield Bash golem first. B Bash it next. (B cast Wall.) B Challenge it next. B Bash it next. (A cast Wall.) A Challenge it next. A guardian Bash it next. (<- Repeat)
 
 Walk around with vindicators and pick up Bezoars in late waves. They do hurt a lot. But still be careful of creepers. When one silence creeper explode, there's always another, and another after another.
 
 ## [Paladin](https://www.ohthemisery.tk/builder/m=EX%20Prismatic%20Blade-3&o=Timerift%20Stave-3&h=Sanguine%20Hood-3&c=EX%20Archmage's%20Vestment-3&l=Circuit%20Breaker-3&b=Energized%20Enclosure-3&charm=Aut-illery-3-C,Zoe-c_Geas-2-C,Dis-diance-3-C,Swi-diance-3-C,Les-diance-1-C)
 
-Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand Aptitude 1 wand (Shard of the Dreamer)
+Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand QC 4 crossbow (Ravenclaws), cast with Aptitude 1 wand (Shard of the Dreamer)
 
 ### Skill layout
 
-Base: Boon 2u, HoL 2u(HoL / Crusade / Blessing . Personally I prefer HoL), Crusade 2, DJ 2, Rain / Blessing (use it with enhance) 2
+Base: Boon 2u, HoL 2u, Crusade 2, DJ 2, Rain 2
 
 Spec: Bell 0
 
 ### Gameplay
 
-Try not to get 1 tap in first waves. Try not to fall asleep in late waves.
+Don't try to melee as you are not that tanky.
 
-Don't try to melee unless you want to end this run.
+Bring some Ironvein (Soulweaver) and Epipelagic Essence (Depths), share and extend them with Boon enhance.
 
-## [Harb](https://www.ohthemisery.tk/builder/m=Hexbound%20Elixir-3&o=Timerift%20Stave-3&h=Stonewrought%20Helmet-3&c=Silver%20Vestment-3&l=Circuit%20Breaker-3&b=Energized%20Enclosure-3&charm=Ove-_Flask-2-A,Hea-_Forge-3-A,Exp-sanity-3-A,Exp-illery-3-A,Les-illery-1-A)
+## [Harb](https://www.ohthemisery.tk/builder/m=Hexbound%20Elixir-3&o=Wolfsblood%20Tome-3&h=Stonewrought%20Helmet-3&c=Silver%20Vestment-3&l=Aradian%20Secrecy-3&b=Energized%20Enclosure-3&charm=Ove-_Flask-2-A,Hea-_Forge-3-A,Exp-sanity-3-A,Exp-illery-3-A,Les-illery-1-A)
 
 Gallery armor: 2+2 tank/magic, offhand Aptitude 2, mainhand gallery bag (Nightbarb Flask)
 
 ### Skill layout
 
-Base: UA 2u, Brutal 2u (either Brutal or AA enhance), AA 2, Gruesome 2, Bezoar 2
+Base: EE 2u, UA 2u, AA 2, Brutal 2, Gruesome 1, Bezoar 1
 
-Spec: Taboo 0
-
-### Gameplay
-
-There's still some arguments about run EE or not. It's a math problem about does EE bring more damage boost than -1 level on each Brutal (and its enhance) and Gruesome. The reason no taboo is it will lower your mistake rate too many, or say too risky to use.
-
-Cast UA/AA on guardian's body can hit 90% of the mobs.
-
-UA is your main pot regen instead of Bezoar. That is for healing.
-
-## [Assassin](https://www.ohthemisery.tk/builder/m=Cutter%20of%20Eons-3&o=Argentum%20Arbitrium-3&h=Fungal%20Fury-3&c=Thief's%20Raiment-3&l=Melded%20Bronzeskin-3&b=Aether%20Threads-3&charm=Ech-_Beast-5-R,Spe-_Shoot-1-R,Spr-Sheath-2-R,Anc-wstone-3-R,Les-curing-1-R)
-
-Gallery armor: 4 melee, offhand melee, mainhand Quake sword (Rivers of Blood)
-
-### Skill layout
-
-Base: AS 2u, DT 2, VC 2, BMB 2, Smokescreen 2u
-
-Spec: Bodkin 2, other 1 each
+Spec: Esoteric 0
 
 ### Gameplay
 
-Repeat of Kill -> VC -> Stealth -> Kill. Elites are usually not your highest prioty.
+Turn off Taboo upon elites.
 
-## [Hunter](https://www.ohthemisery.tk/builder/m=Witchbane%20Revolver-3&o=Silvari%20Coin-3&h=Falling%20Blades-3&c=Timepiece%20Plate-3&l=Laboratory%20Apron-3&b=Dichen%20Resolve-3&charm=Har-s_Roar-3-S,Fra-_Shaft-1-S,Dra-'s_Eye-2-S,Sha-sman's-3-S,Emp-acious-3-S)
+UA is your main pot regen instead of Bezoar. That is for healing instead.
 
-Gallery armor: 2+2 tank/proj, offhand proj, mainhand QC 4 crossbow (Ravenclaws) for normal mobs, Piercing 10 crossbow (Heart Stopper) for volley and PStrike.
+# Presets of builds for casual run
+
+##[Apoth]
+
+Everything same as Harb in *Presets of builds for WR*, except Ring 0.
+
+## [Hunter](https://www.ohthemisery.tk/builder/m=Oneiro%20Mavros-3&o=Silvari%20Coin-3&h=Falling%20Blades-3&c=Timepiece%20Plate-3&l=Laboratory%20Apron-3&b=Dichen%20Resolve-3&charm=Har-s_Roar-3-S,Fra-_Shaft-1-S,Dra-'s_Eye-2-S,Sha-sman's-3-S,Emp-acious-3-S)
+
+Gallery armor: 2+2 tank/proj, offhand proj, mainhand QC 4 crossbow (Ravenclaws) for normal mobs, Piercing 10 crossbow (Heart Stopper) for volley and Bow (The Watcher) for PStrike.
 
 ### Skill layout
 
-Base: Swiftness 2, EE 2, Volley 2, Sharpshooter 2u, Wind Bomb 2u
+Base: Wind Bomb 2u, Volley 2u, Sharpshooter 2, Swiftness 2, EE 2
 
 Spec: Split Arrow 2, other 1 each
 
 ### Gameplay
 
-Spam your right click for the love of god Pinning Shot. Spam your EE for crashing teammate's FPS (and apply Vuln). Spam your Wind Bomb for Crowd Control. Save your PStrike for elties.
+Spam your right click for the sake of god Pinning Shot.
+Refresh your Eagle Eye for crashing teammate's FPS (and apply Vuln).
+Fire your PStrike for melting elties.
 
 # Reward
 
-	r22: 51ar 4mat
-	r25: 68ar 5mat 
-	r26: 76ar 6mat
-	r31: 116ar 9mat
-	r32: 126ar 11mat
-	r34: 2.25har 13mat 
-	r35: 157ar 13mat
-	r36: 2.625har 14mat 
-	r37: 2.875har 15mat 
-	r39: 205ar 17mat
-	r41: 3.5har 20mat 
-	r42: 3.825har 20mat 
-	r45: 4.5har 25mat 
-	r44: 276ar 23mat
-	r47: 5.0har 27mat 
-	r49: 5.5har 30mat 
-	r53: 6.85har 36mat 
-	r54: 7.17har 38mat
-	r56: 504ar 42mat
-	r58: 8.5har 48mat 
-	r65: 11.5har 61mat 
-	r68: 12.5har 67mat 
-	r70: 13.5har 71mat 
-	r73: 930ar 78mat
-	r80: 1109ar 93mat 
-	r82: 1160ar 97mat
-	r91: 1389ar 119mat
+	wave 22: 51 ar, 4mat
+	wave 25: 68 ar, 5mat 
+	wave 26: 76 ar, 6mat
+	wave 31: 116 ar, 9mat
+	wave 32: 126 ar, 11mat
+	wave 34: 2.25 har, 13mat 
+	wave 35: 157 ar, 13mat
+	wave 36: 2.625 har, 14mat 
+	wave 37: 2.875 har, 15mat 
+	wave 39: 205 ar, 17mat
+	wave 41: 3.5 har, 20mat 
+	wave 42: 3.825 har, 20mat 
+	wave 45: 4.5 har, 25mat 
+	wave 44: 276 ar, 23mat
+	wave 47: 5.0 har, 27mat 
+	wave 49: 5.5 har, 30mat 
+	wave 53: 6.85 har, 36mat 
+	wave 54: 7.17 har, 38mat
+	wave 56: 504 ar, 42mat
+	wave 58: 8.5 har, 48mat 
+	wave 65: 11.5 har, 61mat 
+	wave 68: 12.5 har, 67mat 
+	wave 70: 13.5 har, 71mat 
+	wave 73: 930 ar, 78mat
+	wave 80: 1109 ar, 93mat 
+	wave 82: 1160 ar, 97 mat
+	wave 91: 1389 ar, 119 mat
+	wave 97: 1542 ar, 128 mat
