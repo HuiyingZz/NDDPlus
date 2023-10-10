@@ -1,42 +1,21 @@
-The sub page of NDDPlus wiki. Directs you to each part of the guide by sidebar.
+The sub page of NDDPlus wiki. Guide for NDD Speedrun.
 
 # Presets of builds:
 
-  Here's some presets if you don't really wanna spend time to constumize a set.
+  Here's some presets if you don't want to spend time on constumizing a set.
 
   If you don't have / can't affort some of the items used in these sets, read below to check if it has alternative piece.
 
 ## [Armor Best-in-Slot set](https://www.ohthemisery.tk/builder/m=None&o=Tear%20of%20the%20Moon&h=Rootweave%20Diadem&c=Bound%20Spirit's%20Tunic&l=Eternity&b=Chains%20of%20Entropy)
 
-153.6% Speed as base.
 
-Damage Reduction doesn't rely on Situational Enchantments like *Reflex* in Agi BiS set.
+## [Agi Best-in-Slot set](https://www.ohthemisery.tk/builder/m=None&o=Dragonbone%20Dagger&h=Vivac%C3%A9&c=Departure%20(chest)&l=Galemage's%20Greaves&b=Mist's%20Wake)
 
-*Curse Of Anemia* 2, so healing is a huge problem.
-
-*Curse Of Corruption* has been consumed.
-
-## [Agi Best-in-Slot set](https://www.ohthemisery.tk/builder/m=None&o=Dragonbone%20Dagger&h=Vivac%C3%A9&c=Departure&l=Galemage's%20Greaves&b=Mist's%20Wake)
-
-132% Speed as base. *Adrenaline 5* (+50% Speed for 3 seconds Potion Effect upon attack, +25% for 6 seconds upon break spawner), so 198% Speed upon attack, 165% upon break spawner.
-
-*Curse Of Corruption* has been consumed.
+132% Speed as base. *Adrenaline 5* (+50% Speed for 3 seconds Custom Effect upon attack, +25% for 6 seconds upon break spawner), so 198% Speed upon attack, 165% upon break spawner.
 
 ## [Agi budget set](https://www.ohthemisery.tk/builder/m=None&o=Merchant's%20Curio&h=Crest%20of%20the%20Tundra&c=Phasing%20Chestplate&l=Galemage's%20Greaves&b=Mist's%20Wake)
 
-138% Speed as base.
-
-Generally higher Damage Reduction than BiS. *Tempo* 1 doesn't really exist.
-
-Melee damage sucks a bit, consider swap offhand to something else at boss.
-
-## [Agi No-DBone set](https://www.ohthemisery.tk/builder/m=None&o=Studded%20Gauntlet&h=Vivac%C3%A9&c=Departure&l=Jeans%20of%20the%20Fire%20Eagle&b=Mist's%20Wake)
-
-125% Speed as base. *Adrenaline* 5, so 187.5% Speed upon attack, 156.25% upon break spawner.
-
-Generally around the same Damage Reduction with budget set. 
-
-## [Huiying's Build](https://www.ohthemisery.tk/builder/m=Boreas%20Mattock&o=Dragonbone%20Dagger&h=Crown%20of%20the%20Depths&c=Bounty%20Hunter's%20Gambeson&l=Galemage's%20Greaves&b=Mist's%20Wake&charm=None)
+## [Huiying's Build](https://www.ohthemisery.tk/builder/m=Boreas%20Mattock&o=Dragonbone%20Dagger&h=Crown%20of%20the%20Depths&c=Bounty%20Hunter's%20Gambeson&l=Galemage's%20Greaves&b=Mist's%20Wake)
 
 Not recommend unless you can get high level infusions.
 
@@ -50,7 +29,7 @@ What's good about it:
 
 ## [Agi DPS set](https://www.ohthemisery.tk/builder/m=Titan%20Spear&o=Accident%20Prone&h=Horseman's%20Head&c=Crusadoth&l=Salazar's%20Greed&b=Sailwoven%20Sandals)
 
-Infusions: Vigor, TFF / Ruin / EC / (Orange / Pink / LB / Teal)
+Infusions: Vigor 24, TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 
 *To be Verified:* Since *Slowness* doesn't affect bosses anymore therefor there is no need to get Yellow nor Magenta.
 
@@ -58,13 +37,14 @@ Infusions: Vigor, TFF / Ruin / EC / (Orange / Pink / LB / Teal)
 
 *I have **NEVER** tried Armor DPS set before, and it has to get Grace 5 to work.*
 
-## [Tank set](https://www.ohthemisery.tk/builder/m=Truest%20North-3&o=Dryadic%20Temptation&h=The%20Knight's%20Pledge&c=The%20Godshell&l=Iridium%20Greaves&b=Old%20Ice%20Brogues)
+## [Tank set](https://www.ohthemisery.tk/builder/m=Divination%20Orb&o=Dryadic%20Temptation&h=Timeless%20Bond&c=The%20Godshell%20(chest)&l=Iridium%20Greaves&b=Old%20Ice%20Brogues)
 
-Replacement for helmet: FGC (trade EHP for DR and E-Healing Rate). Budget replacement for leggings: Cephalopodic Chains.
+Replacement for helmet: FGC / Crown of Chains. Budget replacement for leggings: Cephalopodic Chains.
 
-**4 HP is your danger zone where you get 2 shot with my set.** Pop your IH2 / Absorption / Totem / Tincture once you fall into it.
+Keep your HP usually lower than 40% for DR. **4 HP is your danger zone where you get 1 shot by Meteor Slam with my set.** Pop your IH2 / Absorption / Totem / Tincture once you fall into it.
 
 # Options in Slot:
+
   Here's more details about what piece is good for this slot. (Nothing about armor set because I'm not familar with that.)
 
 ## Pickaxe:
@@ -87,7 +67,7 @@ Recommond to use it with *Haste* potion to get less hit.
 
 The same Mining stats as above.
 
-*Adrenaline* speed ups the clear stage a viable bit and the knockback from *Eruption* sometimes helps you get less hit.
+*Adrenaline* speed ups the clear stage and the knockback from *Eruption* sometimes helps you get less hit. Works better when you are using Agi BiS set.
 
 The same as Ocean's Bounty.
 
@@ -97,17 +77,11 @@ The same as Ocean's Bounty.
 
 It's fast enough to called **game chaging**. Mobs can never catch you even you get slow'd. Only things could hit you while running are mobs just spawned on your face or ranged attack.
 
-*Curse Of Corruption* has been consumed.
-
 ## Misc mainhand:
 
 - **True(r/st) North**
 
 I can't think of any reason you don't need it.
-
-- **Moon Mirror Shield**
-
-Count as a melee weapon so it can cast ability while also function as a shield.
 
 - **Phoenix's Gaze**
 
@@ -119,7 +93,7 @@ Kill the plants faster in F1 boss fight.
 
 - **Aleph** / **Poacher's Rifle** / **Carcano 91/38** / **K'x'aehdd**
 
-Kill the eyes faster in f3 boss fight.
+Kill the eyes (elites) faster in f3 boss fight.
 
 ## Offhand:
 
@@ -161,11 +135,11 @@ BiS Speed which isn't *Adrenaline*. Good general defence. No need to worry about
 
 - **Bounty Hunter's Gambeson**
 
-Not really a good choice but BiS Knockback Resistance. Good general defence (better than Phasing without Situational Enchantments on).
+Good general defence (better than Phasing without Situational Enchantments on). +2 KBR is pretty sweet when you get hit while breaking spawners
 
 - **Emblem of the Last Gift**
 
-Not recommend unless you want even more *Reflex*.
+Not recommend unless you find yourself still hard to survive therefor need even more *Reflex*.
 
 ## Leggings:
 
@@ -187,7 +161,7 @@ BiS Speed. Not bad general defence. *Regen* 1 as sweet spot. No need to worry ab
 
 - **Wit's End**
 
-BiS Damage Reduction. -2 HP kinda hurtfor EHP wise. (Use with Vitality?)
+BiS Damage Reduction. -2 HP kinda hurt for EHP wise. (Use with Vitality?)
 
 ## Boots:
 
@@ -267,6 +241,8 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 *Regen* 2 Potion effect, which is 0.8 HP / 25 ticks (1.25s), or say 0.64 HP/s.
 
+As supplementary knowledge, *Regen* 1 Potion effect is 0.4 HP / 50 ticks (2.5s), or say 0.16 HP/s.
+
 - **Any 40% Instant Healing mix with any 40% Absorption**
 
 # Room priority
@@ -277,11 +253,9 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 - Normal Treasure (Mid Left)
 
-- *Normal Others* (Ability Top Left \> Upgrade Top Right)
+- Normal Others (Ability Top Left \> Upgrade Top Right)
 
-- *Elite Treasure* (Mid Right)
-
-> These 2 are flexible depends on if you want a greater loot all in 1 run or more loot per unit time.
+- Elite Treasure (Mid Right)
 
 - Elite Others (Ability Bottom Left \> Upgrade Bottom Right)
 
@@ -289,12 +263,12 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 # Skill priority
 
-  All the Sneak + LMB abilities conflict with Rapid Fire on Titan Spear. You can disable its trigger in Yellow Tess u.
-
   Stats are counted at Legendary Rarity.
 
 ## DPS
 
+  All the Sneak + LMB abilities conflict with Rapid Fire on Titan Spear. You can disable its trigger in Yellow Tess u.
+  
   Become worse and worse from up to down in terms of DPS boost, in overall / 15 seconds (The Sorting Basis. It's the time limit to 1 phase f1 boss, Or 12 seconds if minus the time with blindness since you can't crit) / 5 seconds
 
 - Aeromancy: Effectively *124%. F3 boss count towards Airborn requirement, in which becomes effectively *137.888%
@@ -353,20 +327,6 @@ Extra mining speed boost comes from *Conduit Power*, seperate with *Haste*.
 
 (Lighting bottle is not in the list due to it takes hotbar.)
 
-## Lifeline
-
-  Become worse and worse from up to down
-
-- Apocalypse (Flamecaller)
-> The only skill blocks the damage from Seeker's laser if laser will trigger lifeline so that it does save you from laser.
-
-- Last Breath (Windwalker)
-
-- Steel Stallion (Steelsage)
-
-- *Cry because Cryobox (Frostborn)*
-> Remove it once you get it unless you are playing tank role.
-
 ## Utility rooms
 
 - Gamble skills
@@ -411,20 +371,6 @@ Leave potions to DPS (or Tank, either if you are good enough to take care of DPS
 
 - Attack those adds summoned in boss fight. It pulls aggro to you so that DPS can have a better environment. Don't come too close to boss in f2 / f3 though.
 
-- Due to the ranged mob's path finding AI, place the blocks like this will make it cannot directly shoot at DPS (numbers means block height, x means it's where you place blocks initially, which will cause ranged mob able to shoot at DPS).
-
->		0	0	0	0	1	1	1	0	0	0	0
->		0	0	0	0	x	x	x	0	0	0	0
->		0	0	0	0	0	0	0	0	0	0	0
->		0	0	0	2	2	2	2	2	0	0	0
->		1	x	0	2	1	1	1	2	0	x	1
->		1	x	0	2	1	0	1	2	0	x	1
->		1	x	0	2	1	1	1	2	0	x	1
->		0	0	0	2	2	2	2	2	0	0	0
->		0	0	0	0	0	0	0	0	0	0	0
->		0	0	0	0	x	x	x	0	0	0	0
->		0	0	0	0	1	1	1	0	0	0	0
-
 - The Earth skill Stone Skin (Sneak + RMB) only affects yourself unlike Defence Line. Radiant Blessing gives Resistance instead of Speed unlike Celeste Blessing.
 
 - **Very Many Important** The iframe in Monumenta is seperated by Melee / Projectile / Magic. Some of the skills ignore iframes as well but we don't talk about them too much here. In this case, if A deals 50 damage with thier melee attack first, then B deals 100 damage with thier melee attack within the same iframe, the final damage taken by the enemy is 100 (50 melee damage by A and 50 melee damage by B). But if A deals 50 damage with thier projectile attack first, then B deals 100 damage with thier melee attack within the same iframe, the final damage taken by the enemy is 150 (50 projectile damage by A and 100 melee damage by B). Skills like Flamestrike has their iframe seperate with itself (just like how you can't spam Alch potion on one enemy), means it doesn't and also can't be affect by iframes created by other attacks. This rules not only works for DD but also ALL other content. Outside of DD, skills like Rampage / Cloak and Dagger have more issue with iframe. In the previous case 'A deals 50 melee damage first then B deals 100 melee damage within the same iframe, A dealt 50 damage so get 50 damage count towards to Rampage, while B dealt 100 damage but only get 50 damage count towards to Rampage.
@@ -441,53 +387,58 @@ Leave potions to DPS (or Tank, either if you are good enough to take care of DPS
 - *Same above.* Artifacts can be trade to 8 geode at NPC, so before you price your artifact, check if it's lower than just trade them for geode.
 
 # List of skilled Players I've known during my NDD Speedrun grind
-  Will also mark out the role they main. I main DPS most of time so some of them may have DPS set as well but I don't know about it.
+
+  Rank doesn't mean how good the player is but how grind. Will also mark out the roles they main.
 
 
 	Leaderboard - Darkest Depths Clears
 
 	Rank	|	Name		|	Score
 
-	1	-	HuiyingZz	-	857	DPS / Tank
+	1	-	HuiyingZz	-	1342	DPS / Tank
 
-	2	-	cqmera		-	582	Tank
+	2	-	owo12122	-	600	DPS 
 
-	6	-	Magic58994	-	264	Tank
+	3	-	cqmera		-	582	Tank
 
-	15	-	lavaangmagma	-	214
+	6	-	emilyloaf	-	424	Tank
 
-	18	-	aGrxpe		-	199	DPS
+	7	-	aGrxpe		-	347	DPS
 
-	23	-	_wu_feng_	-	166
+	8	-	Magic58994	-	282	Tank / DPS
 
-	25	-	Arco23		-	162	Tank
+	17	-	lavaangmagma	-	217
 
-	27	-	Raikiy		-	153
+	23	-	Arco23		-	188
 
-	32	-	owo12122	-	142	DPS / TANK
+	23	-	_wu_feng_	-	170
 
-	35	-	WaterBebu	-	141	Tank
+	27	-	Raikiy		-	162
 
-	39	-	er3222		-	134	Tank
+	37	-	WaterBebu	-	141	Tank
 
-	56	-	Onion_is_idot	-	107	DPS
+	39	-	er3222		-	138	Tank
 
-	68	-	iFading		-	92
+	51  - Abtruse         -    115
 
-	79	-	Halewen		-	87	DPS / Tank
+	58	-	Halewen		-	108	DPS / Tank
 
-	81	-	Harry_Cake	-	86
+	59	-	Onion_is_idot	-	107	DPS
 
-	83	-	qL_inderHerbst	-	85
+	68	-	Harry_Cake	-	99
 
-	95	-	_sigia		-	77
+	69  - ImaginaryPlaces -    98
 
-	100	-	5a7		-	74
+	74	-	iFading		-	92
 
-	126	-	emilyloaf	-	62	Tank
+	88	-	qL_inderHerbst	-	85
 
-	130	-	a_hatintime	-	61
+	95	-	_sigia		-	81
 
-	136	-	_LaPluma_	-	59
+	107	-	5a7		-	74
 
-	167	-	ImLikeSoCat	-	46	DPS
+	134	-	a_hatintime	-	61
+
+	141	-	_LaPluma_	-	59
+
+	176	-	ImLikeSoCat	-	46	DPS
