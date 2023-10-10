@@ -9,11 +9,11 @@ Builds, gameplay and stragedies to minimize the average completion time of NDD w
 
 My average completion time is about 9-12 minutes with a 4 poeple team. Changes as the overall skill level of team and RNGs like rooms and skills.
 
-The average loot from my completion is about 2.25-2.75 hcs, 7-9 geode, 1/3 chance for 1 artifact.
+The average loot from my completion is about 2.25-2.5 hcs, 7-8 geode, about 1/3 chance for 1 artifact.
 
 ## About Gallery of Fear
 
-Builds, gameplay to point out what are the meta stragedies. Wave 50 (for advancement) has no difficulty.
+Builds, gameplay to point out what are the meta stragedies for deep group run. Solo is NOT included. Consider start with Hunter / Apoth and prepare for Paladin or Assassin.
 
 # Where do I start with?
 
