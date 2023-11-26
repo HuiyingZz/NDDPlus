@@ -15,4 +15,4 @@ The average loot from my completion is about 2.25-2.5 hcs, 7-8 geode, about 1/3 
 
 [-> NDD Speedrun Wiki <-](https://github.com/HuiyingZz/NDDPlus/wiki/NDD-Speedrun)
 
-Last Update: 2023-11-26 (yy-MM-dd)
+Last Update: 2023-11-26 (yyyy-MM-dd)
